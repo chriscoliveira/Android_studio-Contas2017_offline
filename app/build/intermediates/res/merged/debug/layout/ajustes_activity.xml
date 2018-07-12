@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fundo"
+
+    tools:context=".RendaActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/tb_main"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="8dp"
+        android:background="@drawable/toolbar_ajustes"
+        android:elevation="4dp"
+        android:minHeight="?attr/actionBarSize"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:id="@+id/layout1"
+        android:padding="15dp">
+
+
+        <Button
+            android:id="@+id/btImportar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Importar" />
+
+        <Button
+            android:id="@+id/btExportar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Exportar" />
+
+        <Button
+            android:id="@+id/btLimpar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Limpar Banco" />
+
+    <TextView
+        android:id="@+id/tvVersao"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:gravity="bottom|right"
+        android:text="Versao"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/black"
+        />
+    </LinearLayout>
+
+</RelativeLayout>

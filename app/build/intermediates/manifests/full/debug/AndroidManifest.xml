@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chriscoliveira.contas2017"
+    android:versionCode="2"
+    android:versionName="3" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ico"
+        android:label="Contas"
+        android:theme="@style/Theme.MyTheme" >
+        <activity
+            android:name="com.chriscoliveira.contas2017.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.chriscoliveira.contas2017.RendaActivity"
+            android:theme="@style/Theme.Rendas" />
+        <activity
+            android:name="com.chriscoliveira.contas2017.DespesaActivity"
+            android:theme="@style/Theme.Despesas" />
+        <activity
+            android:name="com.chriscoliveira.contas2017.CartaoActivity"
+            android:theme="@style/Theme.Cartao" />
+        <activity
+            android:name="com.chriscoliveira.contas2017.CadastroActivity"
+            android:theme="@style/Theme.Cadastrar" />
+        <activity
+            android:name="com.chriscoliveira.contas2017.AjustesActivity"
+            android:theme="@style/Theme.Ajustes" />
+        <activity
+            android:name="com.chriscoliveira.contas2017.MesAMesActivity"
+            android:theme="@style/Theme.Ajustes" />
+    </application>
+
+</manifest>

@@ -1,0 +1,906 @@
+[
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\database.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\database.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/arrow_left_bold_circle.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/generated/res/pngs/debug/drawable-mdpi/arrow_left_bold_circle.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_left_bold_circle.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\arrow_left_bold_circle.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/file_outline.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/generated/res/pngs/debug/drawable-mdpi/file_outline.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_right_bold_circle.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\arrow_right_bold_circle.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\file_outline.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\file_outline.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_barcode_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_barcode_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/settings.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/generated/res/pngs/debug/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_coin_white_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_coin_white_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_outline_grey600_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_file_outline_grey600_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_database_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_database_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_right_bold_circle_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_right_bold_circle_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/database.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/generated/res/pngs/debug/drawable-mdpi/database.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_share_variant_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_share_variant_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_white_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_white_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/arrow_right_bold_circle.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/generated/res/pngs/debug/drawable-mdpi/arrow_right_bold_circle.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_left_bold_circle_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_arrow_left_bold_circle_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_database_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_database_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_left_bold_circle_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_left_bold_circle_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_file_outline_white_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_file_outline_white_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_black_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_settings_black_18dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_settings_black_18dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_barcode_black_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_barcode_black_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_credit_card_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_credit_card_grey600_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_grey600_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_grey600_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_coin_black_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable-mdpi/ic_coin_black_36dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_white_24dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_white_24dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_right_bold_circle_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_right_bold_circle_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share_variant_grey600_48dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_share_variant_grey600_48dp.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_grey600_36dp.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_grey600_36dp.png"
+    }
+]

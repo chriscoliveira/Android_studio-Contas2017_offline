@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/itens_interior_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/itens_interior_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\borda_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\borda_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/toolbar_renda.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/toolbar_renda.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/itens_interno_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/itens_interno_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itens_borda_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\itens_borda_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/toolbar_resumo.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/toolbar_resumo.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/toolbar_cartao.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/toolbar_cartao.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itens_interno_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\itens_interno_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_cartao.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\toolbar_cartao.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/buttonpago_borda.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/buttonpago_borda.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/itens_borda_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/itens_borda_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/borda_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/borda_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonroundcorner.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\buttonroundcorner.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/ico.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/ico.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/toolbar_canto_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/toolbar_canto_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customborder.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\customborder.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\ico.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/buttonroundcorner.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/buttonroundcorner.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\despesas.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\despesas.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/customborder.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/customborder.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/toolbar_inicio.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/toolbar_inicio.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/buttonnao.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/buttonnao.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\itens_interior_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\itens_interior_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_despesa.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\toolbar_despesa.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/ic_launch.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/ic_launch.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_cadastro.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\toolbar_cadastro.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/buttonpago.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/buttonpago.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonpago_borda.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\buttonpago_borda.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/branco_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/branco_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_canto_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\toolbar_canto_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/despesas.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/despesas.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/toolbar_cadastro.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/toolbar_cadastro.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_renda.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\toolbar_renda.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launch.png",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\ic_launch.png"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonnao.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\buttonnao.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/toolbar_despesa.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/toolbar_despesa.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonpago.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\buttonpago.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/buttonnao_borda.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/buttonnao_borda.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_ajustes.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\toolbar_ajustes.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonnao_borda.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\buttonnao_borda.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/toolbar_ajustes.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/src/main/res/drawable/toolbar_ajustes.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branco_arredondado.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\branco_arredondado.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_inicio.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\toolbar_inicio.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_resumo.xml",
+        "source": "/media/21220/HD EXTERNO 500/Android/StudioProjects/Contas2017/E:\\Android\\StudioProjects\\Contas2017\\app\\src\\main\\res\\drawable\\toolbar_resumo.xml"
+    }
+]

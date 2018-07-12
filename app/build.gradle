@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId 'com.chriscoliveira.contas2017'
+        minSdkVersion 11
+        targetSdkVersion 22
+        versionCode 2
+        versionName "3"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    defaultConfig {
+        buildConfigField 'String', 'BUILD_TIME', 'new java.text.SimpleDateFormat("MM/dd/yyyy HH:mm", java.util.Locale.ROOT).format(new java.util.Date(' + System.currentTimeMillis() + 'L))'
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+}
